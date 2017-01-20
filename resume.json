@@ -1,0 +1,170 @@
+{
+  "basics": {
+    "name": "Elvina Valieva",
+    "label": "JavaScript Developer",
+    "picture": "",
+    "email": "elvinavalieva@gmail.com",
+    "phone": "+49 1575 8483135",
+    "website": "saintsebastian.github.io",
+    "summary": "Elvina is originally from Baku, Azerbaijan, but spend most of her life in Kazan Russia, where she earned her degree in Applied Linguistics in 2011. In 2012 she received a scholarship and moved to Germany, where in 2014 she received her MA in Linguistic and Web Technology. From there on she turned into a self-taught developer, focusing on JavaScript, Web and Browsers.",
+    "location": {
+      "address": "Herrmanst 31a ",
+      "postalCode": "35037",
+      "city": "Marburg",
+      "countryCode": "DE",
+      "region": "Hessen"
+    },
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "saintsebastian",
+        "url": "github.com/saintsebastian"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "WebExtensions (Mozilla)",
+      "position": "Intern",
+      "website": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions, https://github.com/mozilla/web-ext",
+      "startDate": "2016-06-12",
+      "endDate": "2017-07-03",
+      "summary": "Internship as a result of recieving Outreachy scholarship",
+      "highlights": [
+        "Building CLI using Node.js, FlowType, Grunt etc.",
+        "Gained insight in maintaining and working on Open Source Project",
+        "Accent on best practicies for working remotely and writing maintaianble and clean code."
+      ]
+    },
+    {
+      "company": "Rails Girls Summer of Code",
+      "position": "Student",
+      "website": "railsgirlssummerofcode.com",
+      "startDate": "2016-07-01",
+      "endDate": "2016-10-01",
+      "summary": "Scholarship for three months of open source development.",
+      "highlights": [
+        "Developed dynamic visual statistics for admin dashboard for Discourse using d3, Ember and Ruby on Rails.",
+        "Spent time as apprentices in Namics"
+      ]
+    },
+    {
+      "company": "My2share",
+      "position": "Javascript Developer",
+      "website": "https://my2share.de",
+      "startDate": "2014-12-01",
+      "endDate": "2016-07-01",
+      "summary": "My2share is a mobile flea market with social services.",
+      "highlights": [
+        "Was one of two developers in charge of iOS application",
+        "Proud to develop an app for Frankfurt am Main LGBTQ+ community (Christopher Street Day 2016)"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Marburg",
+      "area": "Linguistics and Web Technology",
+      "studyType": "Master",
+      "startDate": "2012-10-01",
+      "endDate": "2014-09-07",
+      "gpa": "1.9",
+      "courses": []
+    },
+    {
+      "institution": "Kazan Federal University",
+      "area": "Applied Linguistics",
+      "studyType": "Diploma",
+      "startDate": "2006-09-01",
+      "endDate": "2011-07-01",
+      "gpa": "1",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": [
+        "FrontEnd Frameworks",
+        "d3.js",
+        "titanium/appcelerator"
+      ]
+    },
+    {
+      "name": "NodeJS",
+      "level": "Intermediate",
+      "keywords": [
+        "ES6",
+        "npm",
+        "grunt"
+      ]
+    },
+    {
+      "name": "Front End",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Sass",
+        "Accesible web",
+        "Browser compatabilty"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "Git",
+        "Ruby on Rails",
+        "Postgres",
+        "SQL",
+        "PHP"
+
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Russian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "German",
+      "fluency": "Conversational"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Comprehension"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Software Craftsmanship",
+      "keywords": []
+    },
+    {
+      "name": "DataViz ",
+      "keywords": []
+    },
+    {
+      "name": "Yoga ",
+      "keywords": []
+    },
+    {
+      "name": "Meditation",
+      "keywords": []
+    },
+    {
+      "name": "Bookclubs",
+      "keywords": []
+    }
+  ]
+}
