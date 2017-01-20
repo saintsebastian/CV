@@ -33,7 +33,7 @@
       "highlights": [
         "Building CLI using Node.js, FlowType, Grunt etc.",
         "Gained insight in maintaining and working on Open Source Project",
-        "Accent on best practicies for working remotely and writing maintaianble and clean code."
+        "Accent on best practicies for working remotely and writing maintaianble and clean code"
       ]
     },
     {
@@ -42,9 +42,9 @@
       "website": "railsgirlssummerofcode.com",
       "startDate": "2016-07-01",
       "endDate": "2016-10-01",
-      "summary": "Scholarship for three months of open source development.",
+      "summary": "Scholarship for three months of open source development",
       "highlights": [
-        "Developed dynamic visual statistics for admin dashboard for Discourse using d3, Ember and Ruby on Rails.",
+        "Developed dynamic visual statistics for admin dashboard for Discourse using d3, Ember and Ruby on Rails",
         "Spent time as apprentices in Namics"
       ]
     },
@@ -54,7 +54,7 @@
       "website": "https://my2share.de",
       "startDate": "2014-12-01",
       "endDate": "2016-07-01",
-      "summary": "My2share is a mobile flea market with social services.",
+      "summary": "My2share is a mobile flea market with social services",
       "highlights": [
         "Was one of two developers in charge of iOS application",
         "Proud to develop an app for Frankfurt am Main LGBTQ+ community (Christopher Street Day 2016)"
@@ -100,7 +100,7 @@
       "keywords": [
         "ES6",
         "npm",
-        "grunt"
+        "FlowType"
       ]
     },
     {
@@ -115,7 +115,7 @@
       ]
     },
     {
-      "name": "Web Development",
+      "name": "Misc",
       "level": "Intermediate",
       "keywords": [
         "Git",
