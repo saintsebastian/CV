@@ -5,7 +5,7 @@
     "picture": "",
     "email": "elvinavalieva@gmail.com",
     "phone": "+49 1575 8483135",
-    "website": "saintsebastian.github.io",
+    "website": "https://saintsebastian.github.io",
     "summary": "Elvina is originally from Baku, Azerbaijan, but spend most of her life in Kazan Russia, where she earned her degree in Applied Linguistics in 2011. In 2012 she received a scholarship and moved to Germany, where in 2014 she received her MA in Linguistic and Web Technology. From there on she turned into a self-taught developer, focusing on JavaScript, Web and Browsers.",
     "location": {
       "address": "Herrmanst 31a ",
@@ -18,7 +18,7 @@
       {
         "network": "GitHub",
         "username": "saintsebastian",
-        "url": "github.com/saintsebastian"
+        "url": "https://github.com/saintsebastian"
       }
     ]
   },
@@ -26,7 +26,7 @@
     {
       "company": "WebExtensions (Mozilla)",
       "position": "Intern",
-      "website": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions, https://github.com/mozilla/web-ext",
+      "website": "https://developer.mozilla.org/en-US/Add-ons/WebExtensions",
       "startDate": "2016-06-12",
       "endDate": "2017-07-03",
       "summary": "Internship as a result of recieving Outreachy scholarship",
@@ -39,7 +39,7 @@
     {
       "company": "Rails Girls Summer of Code",
       "position": "Student",
-      "website": "railsgirlssummerofcode.com",
+      "website": "http://railsgirlssummerofcode.org",
       "startDate": "2016-07-01",
       "endDate": "2016-10-01",
       "summary": "Scholarship for three months of open source development",
@@ -51,7 +51,7 @@
     {
       "company": "My2share",
       "position": "Javascript Developer",
-      "website": "https://my2share.de",
+      "website": "http://my2share.de",
       "startDate": "2014-12-01",
       "endDate": "2016-07-01",
       "summary": "My2share is a mobile flea market with social services",
