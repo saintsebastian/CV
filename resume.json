@@ -53,7 +53,7 @@
       "position": "Javascript Developer",
       "website": "http://my2share.de",
       "startDate": "2014-12-01",
-      "endDate": "2016-07-01",
+      "endDate": "2017-06-15",
       "summary": "My2share is a mobile flea market with social services",
       "highlights": [
         "Was one of two developers in charge of iOS application",
@@ -89,18 +89,11 @@
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "FrontEnd Frameworks",
-        "d3.js",
-        "titanium/appcelerator"
-      ]
-    },
-    {
-      "name": "NodeJS",
-      "level": "Intermediate",
-      "keywords": [
-        "ES6",
+        "NodeJS",
         "npm",
-        "FlowType"
+        "d3.js",
+        "titanium/appcelerator",
+        "JS FrontEnd Frameworks"
       ]
     },
     {
@@ -120,10 +113,10 @@
       "keywords": [
         "Git",
         "Ruby on Rails",
+        "Python",
         "Postgres",
         "SQL",
         "PHP"
-
       ]
     }
   ],
