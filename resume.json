@@ -8,11 +8,11 @@
     "website": "https://saintsebastian.github.io",
     "summary": "Elvina is originally from Baku, Azerbaijan, but spend most of her life in Kazan Russia, where she earned her degree in Applied Linguistics in 2011. In 2012 she received a scholarship and moved to Germany, where in 2014 she received her MA in Linguistic and Web Technology. From there on she turned into a self-taught developer, focusing on JavaScript, Web and Browsers.",
     "location": {
-      "address": "Herrmanst 31a ",
-      "postalCode": "35037",
-      "city": "Marburg",
+      "address": "Briener Str. 27a ",
+      "postalCode": "47533",
+      "city": "Kleve",
       "countryCode": "DE",
-      "region": "Hessen"
+      "region": "NRW"
     },
     "profiles": [
       {
@@ -61,8 +61,31 @@
       ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "Mozilla",
+      "position": "Volunteer",
+      "website": "http://mozilla.com/",
+      "startDate": "2017-04-01",
+      "summary": "Contributing to WebExtensions CLI and related tools",
+      "highlights": [
+        "Invited to Mozilla All Hands"
+      ]
+    }
+  ],
   "education": [
+    {
+      "institution": "Relevant MOOCs",
+      "area": "Computer Science",
+      "studyType": "MOOC",
+      "startDate": "2016-10-01",
+      "courses": [
+        "Build a Modern Computer from First Principles: From Nand to Tetris, Hebrew University of Jerusalem",
+        "Algorithms: Design and Analysis, Stanford University",
+        "Introduction to Mathematical Thinking, Stanford University",
+        "Introduction to Computer Science and Programming Using Python, MIT"
+      ]
+    },
     {
       "institution": "University of Marburg",
       "area": "Linguistics and Web Technology",
@@ -89,7 +112,7 @@
       "name": "JavaScript",
       "level": "Master",
       "keywords": [
-        "NodeJS",
+        "Node.js",
         "npm",
         "d3.js",
         "titanium/appcelerator",
